@@ -21,11 +21,11 @@ python manage.py runserver
 
 <br>
 
-![Screenshot 2024-02-13 220031](https://github.com/joshuadlima/A-Simplified-Graph-Based-Navigation-System/assets/90946664/fc233d53-d3a7-4884-b44b-62f54481e37c)
+![Screenshot 2024-02-13 220050](https://github.com/joshuadlima/A-Simplified-Graph-Based-Navigation-System/assets/90946664/d3ee57a8-6ebd-46cd-ae0d-e141593c37fc)
 
 <br>
 
-![Screenshot 2024-02-13 220050](https://github.com/joshuadlima/A-Simplified-Graph-Based-Navigation-System/assets/90946664/d3ee57a8-6ebd-46cd-ae0d-e141593c37fc)
+![Screenshot 2024-02-13 220031](https://github.com/joshuadlima/A-Simplified-Graph-Based-Navigation-System/assets/90946664/fc233d53-d3a7-4884-b44b-62f54481e37c)
 
 <br>
 
